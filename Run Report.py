@@ -1,6 +1,6 @@
 import json
 
-# read json file
+# read json file || ADD THE PATH OF THE FILE HERE BELOW
 followers_path = open('followers.json')
 following_path = open('following.json')
 
