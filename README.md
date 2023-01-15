@@ -1,6 +1,6 @@
 # Not-Following-Back
 
-This is a singple python script that lets you find what instagram accounts does not follow you back. 
+This is a sinple python script that lets you find what instagram accounts do not follow you back. 
 
 ## Setup: 
 
